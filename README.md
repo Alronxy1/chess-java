@@ -1,3 +1,12 @@
-This project is a Java implementation of Chess, developed as a final team project for our introductory programming class. The GUI board relies on a custom Java module provided by our school.
+Eine Java-Implementierung des klassischen Schachspiels, entwickelt als finales Teamprojekt für unseren Einführungskurs in die Programmierung im 1. Jahrgang an der HTL Perg.
 
-To ensure the chess pieces are displayed correctly, please do not rename any image files. Additionally, make sure to update the image folder directory in your file explorer to match your local path.
+Die grafische Benutzeroberfläche (GUI) des Spielfelds basiert auf einem schulseitig bereitgestellten Java-Modul für die Darstellung des Boards und die Interaktionen.
+
+--
+
+## Wichtige Hinweise zur Konfiguration
+
+Damit die Anwendung und die Schachfiguren korrekt angezeigt werden:
+
+1. **Dateinamen nicht ändern:** Bitte benenne keine Bilddateien um, da die GUI-Komponenten auf die exakten Dateinamen angewiesen sind.
+2. **Pfad anpassen:** Stelle sicher, dass du den Pfad zum Bildordner im Code an deinen lokalen Dateipfad anpasst, bevor du das Projekt startest.
