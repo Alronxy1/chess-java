@@ -7,5 +7,5 @@ Die grafische Benutzeroberfläche (GUI) des Spielfelds basiert auf einem schulse
 
 Damit die Anwendung und die Schachfiguren korrekt angezeigt werden:
 
-1. **Dateinamen nicht ändern:** Bitte benenne keine Bilddateien um, da die GUI-Bikder auf die exakten Dateinamen angewiesen sind.
+1. **Dateinamen nicht ändern:** Bitte benenne keine Bilddateien um, da die GUI-Bilder auf die exakten Dateinamen angewiesen sind.
 2. **Pfad anpassen:** Stelle sicher, dass du den Pfad zum Bildordner im Code an deinen lokalen Dateipfad anpasst, bevor du das Projekt startest.
